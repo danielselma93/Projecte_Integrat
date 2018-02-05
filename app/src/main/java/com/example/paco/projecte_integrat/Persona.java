@@ -8,5 +8,5 @@ public class Persona {
     String nom;
     String apellido;
     String correo;
-    
+
 }
